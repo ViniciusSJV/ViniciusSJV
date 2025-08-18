@@ -2,8 +2,8 @@
 
 💻 Desenvolvedor entusiasta de tecnologia, apaixonado por **backend**, **web** e **linguagens de sistemas** como **Rust**.  
 🎮 Curto explorar desafios com jogos, simulações e renderização gráfica.  
-📚 Sempre aprendendo novas stacks e aplicando em projetos práticos.
-📖 Apaixonado por **ficção científica**, fã de livros como *Snow Crash*, *Duna*, *Fundação*; obras de **Isaac Asimov** :heart: :heart: :heart:.  
+📚 Sempre aprendendo novas stacks e aplicando em projetos práticos.  
+📖 Apaixonado por **ficção científica**, fã de livros como *Snow Crash*, *Fundação*, *Duna* e obras de **Isaac Asimov**. :heart::heart::heart:.  
 
 ---
 
