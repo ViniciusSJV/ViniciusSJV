@@ -3,7 +3,7 @@
 💻 Desenvolvedor entusiasta de tecnologia, apaixonado por **backend**, **web** e **linguagens de sistemas** como **Rust**.  
 🎮 Curto explorar desafios com jogos, simulações e renderização gráfica.  
 📚 Sempre aprendendo novas stacks e aplicando em projetos práticos.  
-📖 Apaixonado por **ficção científica**, fã de livros como *Snow Crash*, *Fundação*, *Duna* e obras de **Isaac Asimov**. :heart::heart::heart:.  
+📖 Apaixonado por **ficção científica**, fã de livros como *Snow Crash*, *Duna*, *Fundação* e obras de **Isaac Asimov** em geral. :heart::heart::heart:.  
 
 ---
 
@@ -38,7 +38,7 @@ Exemplo de aplicação backend usando **Flask (Python)** integrado com **MySQL**
 ---
 
 ## 🧩 Estudos e Explorações Recentes
-Além dos repositórios, também tenho outros projetos professionais:
+Além dos repositórios, também tenho outros projetos profissionais:
 
 - 🚚 **Algoritmos de Roteirização Logística** com GraphHopper + Jsprit (Java).  
 - ☕ **Projetos em Java**, aplicando boas práticas de orientação a objetos.  
