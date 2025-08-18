@@ -48,7 +48,6 @@ Além dos repositórios, também tenho outros projetos professionais:
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=ViniciusSJV&show_icons=true&theme=radical)  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSJV&layout=compact&theme=radical)
 
 ---
