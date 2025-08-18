@@ -56,7 +56,8 @@ Além dos repositórios, também tenho outros projetos profissionais:
 - 🎨 [CodePen](https://codepen.io/viniciusSouza)  
 - ✨ [Shadertoy](https://www.shadertoy.com/user/Vinicius_Jesus)  
 - 📸 [Instagram](https://www.instagram.com/vinicius_jvs/)  
-- 📧 [Email](mailto:beatles.stz25@gmail.com)  
+- 📧 [Email](mailto:beatles.stz25@gmail.com)
+- 🔗 [GitLab](https://gitlab.com/joao.souza4)
 - 🐙 [GitHub](https://github.com/ViniciusSJV)  
 
 ---
