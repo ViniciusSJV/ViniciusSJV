@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Vinícius Souza
+# 👋 Olá, me chamo João Vinicius 
 
 💻 Desenvolvedor entusiasta de tecnologia, apaixonado por **backend**, **web** e **linguagens de sistemas** como **Rust**.  
 🎮 Curto explorar desafios com jogos, simulações e renderização gráfica.  
