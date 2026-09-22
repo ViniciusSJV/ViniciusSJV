@@ -27,6 +27,7 @@ Um **bibliotecário de evidências** desenvolvido em Rust. Organiza informaçõe
 O projeto separa responsabilidades entre três etapas:
 
 > **Graph Engine → testa sem explicar.**
+>
 > **LLM Engine → explica sem interpretar.**
 
 Hoje, o repositório contém contratos de fontes, fatos, seleções e dossiês, além do Graph Engine para conferir referências, linhas, hashes e registros de captura. O LLM Engine faz parte da arquitetura proposta e será integrado posteriormente.
