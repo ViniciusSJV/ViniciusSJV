@@ -24,7 +24,7 @@
 
 Um **bibliotecário de evidências** desenvolvido em Rust. Organiza informações, conserva suas fontes e prepara consultas rastreáveis para que seja possível conferir de onde veio cada afirmação.
 
-O projeto separa responsabilidades entre três etapas:
+O projeto separa responsabilidades entre duas etapas:
 
 > **Graph Engine → testa sem explicar.**
 >
