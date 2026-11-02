@@ -1,4 +1,4 @@
-# 👋 Olá, sou João Vinicius
+# João Vinicius
 
 Desenvolvedor com experiência em backend, arquitetura de sistemas e engenharia de software. Trabalho principalmente com C#, Python e Java, e venho aprofundando meus estudos em Rust.
 
@@ -43,8 +43,6 @@ O Graph Engine trabalha com referências, linhas, hashes e registros de captura.
 Motor de Ray Tracing desenvolvido em Rust, baseado no livro *The Ray Tracer Challenge*, de Jamis Buck.
 
 Além de estudar os fundamentos da renderização gráfica, utilizo o projeto como laboratório para experimentar algoritmos, otimizações de CPU e técnicas de medição de desempenho.
-
-Também é um dos principais projetos utilizados para explorar a aplicação do Librarian em problemas reais de engenharia de software.
 
 ### ♟️ [Xadrez Angular](https://github.com/ViniciusSJV/xadrez-angular)
 
